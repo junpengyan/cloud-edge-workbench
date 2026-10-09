@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+httpx
+requests
+paho-mqtt
+paramiko>=3.5,<5
+cryptography>=42,<51

@@ -1,0 +1,10 @@
+.venv/
+.validation-deps/
+__pycache__/
+*.py[cod]
+.DS_Store
+.playwright-cli/
+data/
+output/
+dist/
+templates/backups/

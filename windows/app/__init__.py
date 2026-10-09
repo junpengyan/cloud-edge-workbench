@@ -1,0 +1,2 @@
+"""Quick data generator package."""
+
