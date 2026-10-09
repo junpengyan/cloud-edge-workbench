@@ -1,0 +1,2 @@
+"""External platform client adapters."""
+
